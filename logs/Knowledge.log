@@ -24533,16 +24533,17 @@ TimeoutError
 2025-09-24 14:21:23,974 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
 2025-09-24 14:21:24,047 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
 2025-09-24 14:21:24,141 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_copy_shallow.cmake
-2025-09-24 14:21:24,286 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R42025-09-24 14:21:24,853 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f80ee266ad0>
-2025-09-24 14:21:24,977 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_overwrite.cmake
-2025-09-24 14:21:25,090 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
-2025-09-24 14:21:25,185 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f80ee266ad0>
-2025-09-24 14:21:25,310 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/MessageClient.h
-2025-09-24 14:21:25,409 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
-2025-09-24 14:21:25,502 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f80ee266ad0>
-2025-09-24 14:21:25,578 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindLibCRUN.cmake
-2025-09-24 14:21:25,675 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
-2025-09-24 14:21:25,763 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase edgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:24,286 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:24,368 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:24,464 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Enumerate.h
+2025-09-24 14:21:24,578 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:24,657 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:24,734 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/json2.cmake
+2025-09-24 14:21:24,860 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:24,949 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:25,034 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/warningreporting/WarningReportingUnit.h
+2025-09-24 14:21:25,120 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:25,189 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
 2025-09-24 14:21:25,287 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/WarningReportingCategories.h
 2025-09-24 14:21:25,402 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
 2025-09-24 14:21:25,505 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
@@ -24887,3 +24888,1247 @@ TimeoutError
 2025-09-24 14:21:57,102 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
 2025-09-24 14:21:57,178 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Synchronize.h
 2025-09-24 14:21:57,296 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:57,385 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:57,481 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_websocketjson.cpp
+2025-09-24 14:21:57,576 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:57,671 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:57,755 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/URL.cpp
+2025-09-24 14:21:57,891 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:57,978 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:58,055 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/DirectOutput.cpp
+2025-09-24 14:21:58,131 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:58,240 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:58,331 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/Module.cpp
+2025-09-24 14:21:58,424 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:58,547 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:58,628 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/operations/map_union.cmake
+2025-09-24 14:21:58,716 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:58,792 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:58,888 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/Logging.h
+2025-09-24 14:21:58,994 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:59,072 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:59,179 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_set_new.cmake
+2025-09-24 14:21:59,282 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:59,395 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:59,473 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/json_tokenize.cmake
+2025-09-24 14:21:59,587 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:59,709 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:21:59,798 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_cyclicbuffer.cpp
+2025-09-24 14:21:59,870 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:21:59,944 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:00,049 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_systeminfo.cpp
+2025-09-24 14:22:00,162 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:00,236 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:00,361 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/SecureSocketPort.cpp
+2025-09-24 14:22:00,469 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:00,566 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:00,641 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/dllmain.cpp
+2025-09-24 14:22:00,718 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:00,829 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:00,902 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/WarningReportingControl.cpp
+2025-09-24 14:22:01,047 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:01,126 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:01,212 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/httpsclient/Module.cpp
+2025-09-24 14:22:01,322 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:01,433 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:01,516 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_peek_back.cmake
+2025-09-24 14:22:01,634 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:01,719 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:01,824 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/TraceFactory.h
+2025-09-24 14:22:01,930 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:02,008 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:02,085 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/HashStream.h
+2025-09-24 14:22:02,194 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:02,289 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:02,394 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Utils/PluginActivator/source/COMRPCStarter.h
+2025-09-24 14:22:02,489 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:02,586 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:02,698 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_frametype.cpp
+2025-09-24 14:22:02,814 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:02,895 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:02,978 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_iso639.cpp
+2025-09-24 14:22:03,075 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:03,172 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:03,282 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/core/map_get.cmake
+2025-09-24 14:22:03,385 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:03,479 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:03,559 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/JSONRPC.h
+2025-09-24 14:22:03,642 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:03,722 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:03,801 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/Random.cpp
+2025-09-24 14:22:03,908 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:03,997 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:04,098 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/README.md
+2025-09-24 14:22:04,181 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:04,262 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:04,374 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_stopwatch.cpp
+2025-09-24 14:22:04,475 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:04,554 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:04,663 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/CMakeLists.txt
+2025-09-24 14:22:04,776 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:04,874 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:04,976 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_parser.cpp
+2025-09-24 14:22:05,057 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:05,153 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:05,230 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Thread.h
+2025-09-24 14:22:05,310 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:05,412 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:05,493 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEProcess/Module.h
+2025-09-24 14:22:05,607 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:05,722 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:05,834 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Factory.h
+2025-09-24 14:22:05,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:06,005 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:06,111 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Sync.cpp
+2025-09-24 14:22:06,203 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:06,312 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:06,415 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindDBus.cmake
+2025-09-24 14:22:06,526 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:06,605 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:06,686 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/SubSystem.h
+2025-09-24 14:22:06,806 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:06,874 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:06,965 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/loader/CMakeLists.txt
+2025-09-24 14:22:07,078 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:07,152 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:07,250 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/ISO639.cpp
+2025-09-24 14:22:07,353 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:07,439 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:07,523 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_property_length.cmake
+2025-09-24 14:22:07,640 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:07,718 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:07,799 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/ExampleConfigWindows.json
+2025-09-24 14:22:07,911 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:08,008 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:08,087 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/TextReader.h
+2025-09-24 14:22:08,176 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:08,260 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:08,341 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_type_get.cmake
+2025-09-24 14:22:08,440 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:08,508 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:08,607 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/json4.cmake
+2025-09-24 14:22:08,722 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:08,813 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:08,894 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/WebTransform.h
+2025-09-24 14:22:08,990 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:09,075 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:09,144 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/FileObserver.h
+2025-09-24 14:22:09,283 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:09,361 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:09,434 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_promote.cmake
+2025-09-24 14:22:09,527 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:09,618 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:09,741 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/core/map_get_special.cmake
+2025-09-24 14:22:09,821 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:09,931 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:10,002 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/RequestResponse.h
+2025-09-24 14:22:10,075 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:10,151 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:10,239 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Parser.cpp
+2025-09-24 14:22:10,335 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:10,398 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:10,490 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/CMakeLists.txt
+2025-09-24 14:22:10,584 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:10,675 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:10,763 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_queue.cpp
+2025-09-24 14:22:10,860 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:10,940 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:11,037 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/string/string_codes.cmake
+2025-09-24 14:22:11,146 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:11,236 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:11,305 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/common/CodeCoverage.cmake
+2025-09-24 14:22:11,391 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:11,508 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:11,599 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/Hash.h
+2025-09-24 14:22:11,688 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:11,761 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:11,837 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_statetrigger.cpp
+2025-09-24 14:22:11,944 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:12,038 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:12,141 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_rectangle.cpp
+2025-09-24 14:22:12,249 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:12,356 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:12,469 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/json_print.cmake
+2025-09-24 14:22:12,549 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:12,668 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:12,765 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindLibGio.cmake
+2025-09-24 14:22:12,850 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:12,931 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:13,045 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/filesystem/fwrite_temp.cmake
+2025-09-24 14:22:13,149 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:13,254 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:13,340 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_rpc.cpp
+2025-09-24 14:22:13,409 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:13,516 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:13,597 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/SocketServer.h
+2025-09-24 14:22:13,684 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:13,788 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:13,888 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/dfs.cmake
+2025-09-24 14:22:13,980 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:14,091 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:14,161 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/FileSystem.cpp
+2025-09-24 14:22:14,274 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:14,366 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:14,453 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/introduction/config.md
+2025-09-24 14:22:14,560 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:14,677 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:14,781 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/Controller.cpp
+2025-09-24 14:22:14,864 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:14,956 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:15,057 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/ResourceMonitor.h
+2025-09-24 14:22:15,173 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:15,262 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:15,357 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_library.cpp
+2025-09-24 14:22:15,476 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:15,560 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:15,629 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/IStringIterator.h
+2025-09-24 14:22:15,718 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:15,811 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:15,913 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/core/map_append.cmake
+2025-09-24 14:22:16,022 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:16,128 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:16,222 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/json_extract_string_value.cmake
+2025-09-24 14:22:16,335 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:16,430 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:16,514 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindGBM.cmake
+2025-09-24 14:22:16,590 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:16,653 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:16,728 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/filesystem/path/path_qualify_from.cmake
+2025-09-24 14:22:16,799 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:16,899 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:16,982 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/ReadWriteLock.h
+2025-09-24 14:22:17,089 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:17,160 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:17,233 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/stack/stack_push.cmake
+2025-09-24 14:22:17,314 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:17,396 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:17,509 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_filesystem.cpp
+2025-09-24 14:22:17,632 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:17,707 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:17,786 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/jsongenerator/IJsonGeneratorCorpus.h
+2025-09-24 14:22:17,889 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:17,984 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:18,101 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Netlink.cpp
+2025-09-24 14:22:18,186 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:18,347 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:18,438 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Media.h
+2025-09-24 14:22:18,513 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:18,647 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:18,751 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/TriState.h
+2025-09-24 14:22:18,825 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:18,942 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:19,054 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/CallsignTLS.h
+2025-09-24 14:22:19,122 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:19,235 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:19,344 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/LockableContainer.h
+2025-09-24 14:22:19,435 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:19,557 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:19,643 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/workerpool-test/Module.h
+2025-09-24 14:22:19,728 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:19,815 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:19,915 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/hibernate/checkpointlib/CheckpointLib.c
+2025-09-24 14:22:19,999 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:20,075 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:20,187 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Utils/PluginActivator/source/IPluginStarter.h
+2025-09-24 14:22:20,306 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:20,385 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:20,460 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/hibernate/checkpointserver/CheckpointServer.c
+2025-09-24 14:22:20,576 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:20,654 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:20,753 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/README.md
+2025-09-24 14:22:20,843 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:20,971 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:21,087 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/loader/main.cpp
+2025-09-24 14:22:21,182 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:21,260 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:21,331 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/VirtualInput.h
+2025-09-24 14:22:21,422 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:21,510 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:21,597 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_flatten.cmake
+2025-09-24 14:22:21,676 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:21,770 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:21,893 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/AES.cpp
+2025-09-24 14:22:22,000 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:22,066 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:22,178 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/hibernate/CMakeLists.txt
+2025-09-24 14:22:22,256 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:22,365 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:22,445 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/plugin/execution-modes.md
+2025-09-24 14:22:22,526 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:22,603 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:22,673 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/SerialPort.cpp
+2025-09-24 14:22:22,781 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:22,867 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:22,948 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Library.cpp
+2025-09-24 14:22:23,056 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:23,136 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:23,219 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/CMakeLists.txt
+2025-09-24 14:22:23,328 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:23,418 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:23,505 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/scripts/CMakeLists.txt
+2025-09-24 14:22:23,600 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:23,715 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:23,786 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/TokenizedStringList.h
+2025-09-24 14:22:23,901 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:24,004 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:24,086 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/AccessControl.h
+2025-09-24 14:22:24,159 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:24,250 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:24,349 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/NodeId.h
+2025-09-24 14:22:24,442 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:24,552 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:24,652 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/introduction/repos.md
+2025-09-24 14:22:24,734 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:24,807 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:24,907 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Thread.cpp
+2025-09-24 14:22:25,014 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:25,132 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:25,245 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_tracing.cpp
+2025-09-24 14:22:25,360 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:25,431 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:25,539 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/common/CmakeHelperFunctions.cmake
+2025-09-24 14:22:25,660 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:25,751 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:25,827 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/mkdocs.yml
+2025-09-24 14:22:25,909 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:25,984 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:26,061 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/ASN1.h
+2025-09-24 14:22:26,133 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:26,213 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:26,290 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_textreader.cpp
+2025-09-24 14:22:26,373 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:26,460 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:26,541 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/SubSystem.cpp
+2025-09-24 14:22:26,634 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:26,727 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:26,807 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/messaging.h
+2025-09-24 14:22:26,910 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:27,018 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:27,114 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/utils/files/observer.md
+2025-09-24 14:22:27,188 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:27,273 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:27,351 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_measurementtype.cpp
+2025-09-24 14:22:27,430 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:27,518 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:27,618 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindSystemd.cmake
+2025-09-24 14:22:27,717 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:27,816 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:27,895 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/quickmap/val.cmake
+2025-09-24 14:22:27,975 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:28,052 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:28,130 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/DoorBell.h
+2025-09-24 14:22:28,204 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:28,320 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:28,431 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/WebSocketLink.h
+2025-09-24 14:22:28,509 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:28,596 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:28,717 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/JSONRPC.cpp
+2025-09-24 14:22:28,808 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:28,889 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:28,965 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Portability.h
+2025-09-24 14:22:29,075 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:29,183 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:29,284 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/events/events_track.cmake
+2025-09-24 14:22:29,377 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:29,441 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:29,516 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/AWCProxyContainer.h
+2025-09-24 14:22:29,617 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:29,722 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:29,867 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/dbus/api.xml
+2025-09-24 14:22:29,952 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:30,063 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:30,144 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/common/CompileSettings.cmake
+2025-09-24 14:22:30,253 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:30,337 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:30,447 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/core/map_duplicate.cmake
+2025-09-24 14:22:30,545 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:30,660 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:30,735 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/ValueRecorder.h
+2025-09-24 14:22:30,813 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:30,929 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:31,001 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_pick_regex.cmake
+2025-09-24 14:22:31,108 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:31,196 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:31,275 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/CMakeLists.txt
+2025-09-24 14:22:31,366 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:31,449 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:31,573 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/is_address.cmake
+2025-09-24 14:22:31,698 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:31,771 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:31,855 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Utils/PluginActivator/source/main.cpp
+2025-09-24 14:22:31,961 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:32,066 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:32,153 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_set.cmake
+2025-09-24 14:22:32,234 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:32,349 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:32,458 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/ConnectorType.h
+2025-09-24 14:22:32,577 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:32,667 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:32,772 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/filesystem/path/path.cmake
+2025-09-24 14:22:32,896 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:33,009 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:33,115 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/core/return/return_truth.cmake
+2025-09-24 14:22:33,189 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:33,256 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:33,345 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/operations/map_merge.cmake
+2025-09-24 14:22:33,462 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:33,549 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:33,674 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_thread.cpp
+2025-09-24 14:22:33,755 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:33,864 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:33,948 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Singleton.h
+2025-09-24 14:22:34,056 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:34,170 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:34,261 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/TextReader.cpp
+2025-09-24 14:22:34,386 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:34,482 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:34,564 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/iterator/map_iterator.cmake
+2025-09-24 14:22:34,650 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:34,729 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:34,826 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/tests/CMakeLists.txt
+2025-09-24 14:22:34,955 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:35,035 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:35,158 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/httpsclient/CMakeLists.txt
+2025-09-24 14:22:35,269 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:35,336 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:35,419 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/IIterator.h
+2025-09-24 14:22:35,489 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:35,561 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:35,631 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/IPTestAdministrator.h
+2025-09-24 14:22:35,712 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:35,828 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:35,953 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/plugin/intro.md
+2025-09-24 14:22:36,078 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:36,197 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:36,270 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/core/require.cmake
+2025-09-24 14:22:36,386 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:36,484 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:36,572 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_lockablecontainer.cpp
+2025-09-24 14:22:36,658 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:36,738 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:36,808 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/ResourceMonitor.cpp
+2025-09-24 14:22:36,880 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:36,964 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:37,047 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/events/event_get.cmake
+2025-09-24 14:22:37,164 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:37,224 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:37,306 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/operations/map_foreach.cmake
+2025-09-24 14:22:37,390 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:37,514 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:37,608 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_tristate.cpp
+2025-09-24 14:22:37,685 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:37,779 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:37,878 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_match_properties.cmake
+2025-09-24 14:22:37,974 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:38,081 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:38,164 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/AESImplementation.h
+2025-09-24 14:22:38,247 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:38,352 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:38,456 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_omit.cmake
+2025-09-24 14:22:38,566 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:38,640 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:38,750 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/common/BaseContainerIterator.h
+2025-09-24 14:22:38,845 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:38,967 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:39,045 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindExecInfo.cmake
+2025-09-24 14:22:39,168 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:39,245 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:39,341 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/IIteratorType.h
+2025-09-24 14:22:39,423 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:39,517 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:39,625 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/windows/include/zconf.h
+2025-09-24 14:22:39,737 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:39,821 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:39,894 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/JSONRPCLink.h
+2025-09-24 14:22:39,971 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:40,078 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:40,163 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/httpsclient/main.cpp
+2025-09-24 14:22:40,236 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:40,353 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:40,438 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/plugins.h
+2025-09-24 14:22:40,523 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:40,598 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:40,707 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/Hash.cpp
+2025-09-24 14:22:40,824 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:40,902 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:40,983 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/IRemoteInstantiation.h
+2025-09-24 14:22:41,064 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:41,186 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:41,273 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/common/CreateLink.cmake
+2025-09-24 14:22:41,364 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:41,474 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:41,590 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/workerpool-test/Module.cpp
+2025-09-24 14:22:41,708 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:41,771 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:41,855 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/StateControl.h
+2025-09-24 14:22:41,931 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:42,045 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:42,133 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/XGetopt.h
+2025-09-24 14:22:42,228 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:42,351 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:42,464 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/VirtualInput.cpp
+2025-09-24 14:22:42,558 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:42,653 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:42,744 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/Module.h
+2025-09-24 14:22:42,856 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:42,923 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:43,029 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_keys_remove.cmake
+2025-09-24 14:22:43,129 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:43,201 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:43,311 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_count.cmake
+2025-09-24 14:22:43,427 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:43,514 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:43,618 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Utils/PluginActivator/CMakeLists.txt
+2025-09-24 14:22:43,703 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:43,793 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:43,899 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_readwritelock.cpp
+2025-09-24 14:22:44,009 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:44,081 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:44,164 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/PostMortem.h
+2025-09-24 14:22:44,258 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:44,360 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:44,446 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/WebResponse.h
+2025-09-24 14:22:44,523 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:44,599 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:44,671 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/common/HeaderOnlyInstall.cmake
+2025-09-24 14:22:44,797 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:44,872 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:44,965 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/CallsignTLS.cpp
+2025-09-24 14:22:45,068 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:45,175 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:45,299 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Frame.h
+2025-09-24 14:22:45,379 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:45,459 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:45,566 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/file-unlink/file-master.cpp
+2025-09-24 14:22:45,705 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:45,779 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:45,866 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/core/map_delete.cmake
+2025-09-24 14:22:45,963 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:46,029 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:46,119 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/ProcessInfo.h
+2025-09-24 14:22:46,205 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:46,314 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:46,423 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/operations/map_equal.cmake
+2025-09-24 14:22:46,538 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:46,628 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:46,704 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/map_import_properties.cmake
+2025-09-24 14:22:46,784 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:46,883 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:46,986 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindDBusClient.cmake
+2025-09-24 14:22:47,083 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:47,182 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:47,274 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/Config.h
+2025-09-24 14:22:47,385 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:47,471 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:47,568 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/WarningReportingCategories.h
+2025-09-24 14:22:47,683 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:47,796 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:47,896 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/AWCContainerBase.cpp
+2025-09-24 14:22:48,011 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:48,141 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:48,237 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_ipc.cpp
+2025-09-24 14:22:48,372 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:48,437 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:48,552 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/Communicator.h
+2025-09-24 14:22:48,631 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:48,732 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:48,842 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindLIBRT.cmake
+2025-09-24 14:22:48,927 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:49,030 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:49,115 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/quickmap/end.cmake
+2025-09-24 14:22:49,206 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:49,320 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:49,399 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/warningreporting/Module.cpp
+2025-09-24 14:22:49,478 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:49,566 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:49,645 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config.cmake
+2025-09-24 14:22:49,768 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:49,843 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:49,945 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/JSONWebToken.h
+2025-09-24 14:22:50,054 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:50,167 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:50,266 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/IAction.h
+2025-09-24 14:22:50,336 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:50,410 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:50,532 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_get.cmake
+2025-09-24 14:22:50,618 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:50,712 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:50,807 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/LXCImplementation/LXCImplementation.cpp
+2025-09-24 14:22:50,931 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:51,013 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:51,103 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_synchronize.cpp
+2025-09-24 14:22:51,184 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:51,260 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:51,350 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/core/map_tryget.cmake
+2025-09-24 14:22:51,421 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:51,501 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:51,574 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/Module.cpp
+2025-09-24 14:22:51,690 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:51,781 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:51,896 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/IControllerDeprecated.h
+2025-09-24 14:22:51,987 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:52,095 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:52,211 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_peek_back.cmake
+2025-09-24 14:22:52,284 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:52,390 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:52,466 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_push_back.cmake
+2025-09-24 14:22:52,561 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:52,636 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:52,719 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/Module.h
+2025-09-24 14:22:52,786 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:52,894 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:53,003 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/collections/list_push_front.cmake
+2025-09-24 14:22:53,106 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:53,188 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:53,274 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/common/GetExternalCode.cmake
+2025-09-24 14:22:53,396 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:53,520 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:53,604 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/IPCConnector.h
+2025-09-24 14:22:53,698 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:53,801 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:53,893 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_at.cmake
+2025-09-24 14:22:53,968 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:54,034 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:54,107 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Utils/PluginActivator/source/COMRPCStarter.cpp
+2025-09-24 14:22:54,194 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:54,279 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:54,389 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/iterator/map_iterator_break.cmake
+2025-09-24 14:22:54,455 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:54,540 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:54,659 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/events/is_event.cmake
+2025-09-24 14:22:54,774 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:54,876 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:54,937 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/Administrator.h
+2025-09-24 14:22:55,051 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:55,168 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:55,277 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/events/event_removehandler.cmake
+2025-09-24 14:22:55,366 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:55,458 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:55,575 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/Logging.cpp
+2025-09-24 14:22:55,658 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:55,771 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:55,844 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/json3.cmake
+2025-09-24 14:22:55,928 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:56,009 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:56,100 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/tracing/tracing.h
+2025-09-24 14:22:56,212 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:56,320 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:56,403 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_matches.cmake
+2025-09-24 14:22:56,482 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:56,573 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:56,649 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/PluginServer.h
+2025-09-24 14:22:56,741 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:56,825 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:56,922 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_websockettext.cpp
+2025-09-24 14:22:57,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:57,128 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:57,214 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_from_keyvaluelist.cmake
+2025-09-24 14:22:57,296 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:57,377 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:57,465 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_semaphore.cpp
+2025-09-24 14:22:57,585 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:57,668 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:57,746 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/IUnknown.h
+2025-09-24 14:22:57,844 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:57,919 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:58,041 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/README.md
+2025-09-24 14:22:58,139 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:58,260 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:58,370 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_workerpool.cpp
+2025-09-24 14:22:58,502 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:58,587 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:58,661 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/warningreporting/IWarningReportingMedia.h
+2025-09-24 14:22:58,758 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:58,877 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:58,979 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/file-unlink/CMakeLists.txt
+2025-09-24 14:22:59,091 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:59,183 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:59,273 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/json_read.cmake
+2025-09-24 14:22:59,387 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:59,462 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:59,544 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/collections/list_push_back.cmake
+2025-09-24 14:22:59,646 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:22:59,722 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:22:59,805 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_message_unit.cpp
+2025-09-24 14:22:59,934 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:00,041 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:00,143 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Services.cpp
+2025-09-24 14:23:00,248 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:00,363 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:00,443 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/mm.cmake
+2025-09-24 14:23:00,556 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:00,637 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:00,720 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/events/events.cmake
+2025-09-24 14:23:00,848 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:00,946 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:01,035 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/formats/json/json_format_tokens.cmake
+2025-09-24 14:23:01,118 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:01,225 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:01,297 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_get_map.cmake
+2025-09-24 14:23:01,420 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:01,504 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:01,585 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_match.cmake
+2025-09-24 14:23:01,703 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:01,771 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:01,851 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/utils/threading/worker-pool.md
+2025-09-24 14:23:01,959 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:02,060 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:02,144 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/core/return/ans.cmake
+2025-09-24 14:23:02,250 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:02,380 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:02,492 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/common/BaseAdministrator.h
+2025-09-24 14:23:02,606 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:02,679 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:02,766 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/introduction/usage.md
+2025-09-24 14:23:02,859 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:02,944 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:03,021 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/AWCImplementation.cpp
+2025-09-24 14:23:03,102 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:03,200 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:03,280 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/CMakeLists.txt
+2025-09-24 14:23:03,399 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:03,487 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:03,577 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/JSONRPC.h
+2025-09-24 14:23:03,659 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:03,730 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:03,831 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindSlauncher.cmake
+2025-09-24 14:23:03,930 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:04,024 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:04,089 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/DataElement.cpp
+2025-09-24 14:23:04,207 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:04,324 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:04,404 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_capture_new.cmake
+2025-09-24 14:23:04,481 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:04,591 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:04,698 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_partial.cmake
+2025-09-24 14:23:04,768 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:04,843 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:04,920 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/MessageException.cpp
+2025-09-24 14:23:05,024 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:05,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:05,195 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_databuffer.cpp
+2025-09-24 14:23:05,289 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:05,368 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:05,443 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/DataElementFile.cpp
+2025-09-24 14:23:05,512 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:05,625 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:05,742 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/map_matches_obj.cmake
+2025-09-24 14:23:05,840 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:05,922 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:05,992 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/TextMessage.h
+2025-09-24 14:23:06,067 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:06,179 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:06,275 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/core/map_set_hidden.cmake
+2025-09-24 14:23:06,413 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:06,517 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:06,593 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/dbus/Client.h
+2025-09-24 14:23:06,692 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:06,761 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:06,848 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/Module.h
+2025-09-24 14:23:06,922 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:06,990 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:07,074 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_messageException.cpp
+2025-09-24 14:23:07,189 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:07,286 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:07,369 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_append.cmake
+2025-09-24 14:23:07,464 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:07,542 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:07,621 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindLibGlib.cmake
+2025-09-24 14:23:07,713 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:07,789 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:07,863 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_dataelementfile.cpp
+2025-09-24 14:23:07,942 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:08,026 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:08,114 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Trace.h
+2025-09-24 14:23:08,200 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:08,274 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:08,356 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Process.h
+2025-09-24 14:23:08,450 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:08,558 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:08,642 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_hash.cpp
+2025-09-24 14:23:08,751 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:08,826 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:08,909 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/stack/stack_pop.cmake
+2025-09-24 14:23:09,023 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:09,140 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:09,223 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_peek_front.cmake
+2025-09-24 14:23:09,298 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:09,410 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:09,503 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/Config.h
+2025-09-24 14:23:09,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:09,673 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:09,740 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_push_front.cmake
+2025-09-24 14:23:09,814 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:09,928 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:10,026 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/WorkerPool.cpp
+2025-09-24 14:23:10,130 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:10,229 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:10,329 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/Module.cpp
+2025-09-24 14:23:10,417 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:10,525 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:10,600 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_dataelement.cpp
+2025-09-24 14:23:10,698 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:10,771 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:10,912 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_key_at.cmake
+2025-09-24 14:23:10,982 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:11,071 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:11,144 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Time.h
+2025-09-24 14:23:11,249 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:11,328 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:11,423 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindLibGobject.cmake
+2025-09-24 14:23:11,522 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:11,608 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:11,685 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/core/return/return_reset.cmake
+2025-09-24 14:23:11,770 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:11,903 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:11,992 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/AES.h
+2025-09-24 14:23:12,091 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:12,157 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:12,277 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/JSON.cpp
+2025-09-24 14:23:12,360 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:12,471 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:12,581 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/TraceCategories.cpp
+2025-09-24 14:23:12,677 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:12,744 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:12,815 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_has_any.cmake
+2025-09-24 14:23:12,899 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:12,998 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:13,083 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_keys_append.cmake
+2025-09-24 14:23:13,207 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:13,311 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:13,414 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/SerialPort.h
+2025-09-24 14:23:13,492 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:13,602 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:13,681 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Library.h
+2025-09-24 14:23:13,788 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:13,872 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:13,956 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/HMAC.h
+2025-09-24 14:23:14,047 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:14,155 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:14,238 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/IPCChannel.h
+2025-09-24 14:23:14,337 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:14,418 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:14,521 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/StateTrigger.h
+2025-09-24 14:23:14,648 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:14,727 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:14,818 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/Service.cpp
+2025-09-24 14:23:14,897 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:14,960 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:15,071 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/stack/stack_peek.cmake
+2025-09-24 14:23:15,163 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:15,259 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:15,335 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Netlink.h
+2025-09-24 14:23:15,431 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:15,516 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:15,596 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/com.h
+2025-09-24 14:23:15,718 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:15,807 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:15,893 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_append_string.cmake
+2025-09-24 14:23:16,013 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:16,101 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:16,174 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Queue.h
+2025-09-24 14:23:16,284 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:16,370 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:16,455 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/MessageUnit.cpp
+2025-09-24 14:23:16,570 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:16,668 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:16,751 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Rectangle.h
+2025-09-24 14:23:16,828 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:16,933 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:17,059 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/operations/map_equal_obj.cmake
+2025-09-24 14:23:17,149 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:17,232 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:17,333 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/websocket.h
+2025-09-24 14:23:17,457 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:17,527 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:17,603 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_keys_sort.cmake
+2025-09-24 14:23:17,723 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:17,804 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:17,883 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/ConfigBuildroot.json
+2025-09-24 14:23:17,957 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:18,042 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:18,153 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/FileSystem.h
+2025-09-24 14:23:18,279 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:18,373 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:18,491 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Utils/PluginActivator/source/Log.h
+2025-09-24 14:23:18,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:18,644 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:18,747 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_omit_regex.cmake
+2025-09-24 14:23:18,846 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:18,937 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:19,057 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_iterator.cpp
+2025-09-24 14:23:19,175 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:19,272 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:19,383 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/Controller.h
+2025-09-24 14:23:19,491 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:19,585 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:19,679 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/events/event_new.cmake
+2025-09-24 14:23:19,772 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:19,838 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:19,914 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/plugin/messaging.md
+2025-09-24 14:23:20,006 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:20,128 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:20,213 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/localtracer/example/CMakeLists.txt
+2025-09-24 14:23:20,329 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:20,408 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:20,519 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/MetaData.cpp
+2025-09-24 14:23:20,602 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:20,699 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:20,817 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/TraceControl.h
+2025-09-24 14:23:20,890 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:20,989 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:21,109 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/privilegedrequest/example/main.cpp
+2025-09-24 14:23:21,192 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:21,281 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:21,342 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_socketstreamtext.cpp
+2025-09-24 14:23:21,428 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:21,547 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:21,654 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/WebRequest.h
+2025-09-24 14:23:21,744 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:21,853 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:21,923 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/filesystem/path/path_qualify.cmake
+2025-09-24 14:23:22,010 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:22,082 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:22,192 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_isempty.cmake
+2025-09-24 14:23:22,303 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:22,394 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:22,496 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_to_valuelist.cmake
+2025-09-24 14:23:22,599 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:22,681 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:22,776 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/StreamTypeLengthValue.h
+2025-09-24 14:23:22,865 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:22,980 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:23,055 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Range.h
+2025-09-24 14:23:23,179 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:23,263 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:23,357 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/operations/map_clone_shallow.cmake
+2025-09-24 14:23:23,470 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:23,548 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:23,654 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/CMakeLists.txt
+2025-09-24 14:23:23,767 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:23,850 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:23,932 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/MessageStore.cpp
+2025-09-24 14:23:24,016 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:24,116 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:24,237 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_extract.cmake
+2025-09-24 14:23:24,349 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:24,430 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:24,502 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/Random.h
+2025-09-24 14:23:24,586 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:24,661 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:24,731 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/ProcessContainer.h
+2025-09-24 14:23:24,838 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:24,919 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:24,995 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_event.cpp
+2025-09-24 14:23:25,073 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:25,190 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:25,270 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/core/return/return.cmake
+2025-09-24 14:23:25,386 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:25,481 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:25,562 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/AWCContainerAdministrator.cpp
+2025-09-24 14:23:25,639 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:25,743 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:25,816 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/Module.cpp
+2025-09-24 14:23:25,922 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:26,005 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:26,082 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/list_match.cmake
+2025-09-24 14:23:26,191 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:26,297 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:26,376 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/localtracer/example/main.cpp
+2025-09-24 14:23:26,489 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:26,561 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:26,648 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Sync.h
+2025-09-24 14:23:26,737 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:26,800 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:26,889 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_type_matches.cmake
+2025-09-24 14:23:26,981 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:27,050 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:27,150 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/ISO639.h
+2025-09-24 14:23:27,235 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:27,344 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:27,424 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/StopWatch.h
+2025-09-24 14:23:27,505 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:27,577 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:27,648 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/quickmap/ref.cmake
+2025-09-24 14:23:27,739 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:27,817 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:27,896 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/plugin/config.md
+2025-09-24 14:23:27,976 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:28,050 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:28,123 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/SystemInfo.cpp
+2025-09-24 14:23:28,208 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:28,289 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:28,379 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/ExampleConfigLinux.json
+2025-09-24 14:23:28,469 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:28,574 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:28,675 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Parser.h
+2025-09-24 14:23:28,789 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:28,858 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:28,933 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_threadpool.cpp
+2025-09-24 14:23:29,052 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:29,129 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:29,209 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/privilegedrequest/example/CMakeLists.txt
+2025-09-24 14:23:29,313 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:29,401 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:29,477 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/GenericConfig.cmake
+2025-09-24 14:23:29,563 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:29,678 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:29,755 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/Channel.cpp
+2025-09-24 14:23:29,867 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:29,941 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:30,020 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/com/ProxyStubs.h
+2025-09-24 14:23:30,138 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:30,222 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:30,343 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_pick.cmake
+2025-09-24 14:23:30,430 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:30,513 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:30,596 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/quickmap/key.cmake
+2025-09-24 14:23:30,694 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:30,767 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:30,861 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/Messaging.h
+2025-09-24 14:23:30,952 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:31,035 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:31,117 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/AWC.cpp
+2025-09-24 14:23:31,242 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:31,337 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:31,409 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/IDispatcher.h
+2025-09-24 14:23:31,501 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:31,580 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:31,678 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Serialization.cpp
+2025-09-24 14:23:31,781 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:31,885 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:31,966 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/TypeTraits.h
+2025-09-24 14:23:32,065 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:32,139 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:32,220 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Number.h
+2025-09-24 14:23:32,335 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:32,409 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:32,507 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/core/return/return_ref.cmake
+2025-09-24 14:23:32,585 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:32,673 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:32,748 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/core/return/ans_extract.cmake
+2025-09-24 14:23:32,828 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:32,908 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:32,976 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Utils/PluginActivator/source/Module.h
+2025-09-24 14:23:33,081 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:33,186 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:33,270 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/quickmap/var.cmake
+2025-09-24 14:23:33,360 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:33,442 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:33,523 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/PluginHost.cpp
+2025-09-24 14:23:33,598 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:33,698 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:33,773 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/CONTRIBUTING.md
+2025-09-24 14:23:33,875 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:33,972 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:34,065 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/common/CreatePackage.cmake
+2025-09-24 14:23:34,169 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:34,261 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:34,395 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_overwrite.cmake
+2025-09-24 14:23:34,488 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:34,598 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:34,676 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/MessageClient.h
+2025-09-24 14:23:34,753 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:34,816 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:34,888 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindLibCRUN.cmake
+2025-09-24 14:23:34,980 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:35,098 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:35,193 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/DobbyImplementation/DobbyImplementation.cpp
+2025-09-24 14:23:35,285 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:35,393 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:35,477 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/introduction/build_linux.md
+2025-09-24 14:23:35,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:35,686 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:35,756 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/IVirtualInput.h
+2025-09-24 14:23:35,870 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:35,948 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:36,024 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_pop_front.cmake
+2025-09-24 14:23:36,106 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:36,186 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:36,302 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/workerpool-test/WorkerPoolTest.cpp
+2025-09-24 14:23:36,428 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:36,539 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:36,657 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/CMakeLists.txt
+2025-09-24 14:23:36,773 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:36,839 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:36,905 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_clear.cmake
+2025-09-24 14:23:36,985 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:37,069 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:37,155 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/SocketPort.cpp
+2025-09-24 14:23:37,270 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:37,378 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:37,455 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/TextFragment.h
+2025-09-24 14:23:37,534 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:37,614 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:37,686 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/RunCImplementation/RunCImplementation.cpp
+2025-09-24 14:23:37,773 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:37,892 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:38,013 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_hex2strserialization.cpp
+2025-09-24 14:23:38,109 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:38,227 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:38,307 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/plugin/subsystems.md
+2025-09-24 14:23:38,423 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:38,544 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:38,675 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/WPEFramework/Probe.h
+2025-09-24 14:23:38,751 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:38,832 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:38,945 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/events/event_handler.cmake
+2025-09-24 14:23:39,050 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:39,137 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:39,259 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/implementations/CRunImplementation/CRunImplementation.cpp
+2025-09-24 14:23:39,365 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:39,442 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:39,542 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_fill.cmake
+2025-09-24 14:23:39,635 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:39,704 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:39,808 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/System.cpp
+2025-09-24 14:23:39,908 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:39,985 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:40,106 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/CMakeLists.txt
+2025-09-24 14:23:40,194 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:40,296 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:40,388 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/tests/test_iptestmanager.cpp
+2025-09-24 14:23:40,510 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:40,576 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:40,655 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_keys_set.cmake
+2025-09-24 14:23:40,743 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:40,859 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:40,945 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/core.h
+2025-09-24 14:23:41,039 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:41,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:41,193 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/ISubSystem.h
+2025-09-24 14:23:41,302 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:41,372 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:41,483 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/IPCMessage.h
+2025-09-24 14:23:41,575 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:41,653 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:41,739 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_keyvalue.cpp
+2025-09-24 14:23:41,835 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:41,937 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:42,019 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/ref/address_new.cmake
+2025-09-24 14:23:42,108 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:42,217 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:42,343 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/CMakeLists.txt
+2025-09-24 14:23:42,457 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:42,571 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:42,653 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/Shell.h
+2025-09-24 14:23:42,733 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:42,824 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:42,934 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/index.md
+2025-09-24 14:23:43,031 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:43,117 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:43,213 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/IPlugin.h
+2025-09-24 14:23:43,320 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:43,399 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:43,486 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/docs/stylesheets/extra.css
+2025-09-24 14:23:43,571 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:43,676 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:43,793 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/SharedBuffer.h
+2025-09-24 14:23:43,886 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:43,980 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:44,081 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/string/string_take_regex.cmake
+2025-09-24 14:23:44,177 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:44,276 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:44,394 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/WarningReportingCategories.cpp
+2025-09-24 14:23:44,475 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:44,558 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:44,637 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_networkinfo.cpp
+2025-09-24 14:23:44,723 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:44,802 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:44,894 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/warningreporting/WarningReportingUnit.cpp
+2025-09-24 14:23:45,008 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:45,086 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:45,177 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_pairs.cmake
+2025-09-24 14:23:45,263 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:45,350 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:45,443 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/WebTransfer.h
+2025-09-24 14:23:45,570 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:45,642 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:45,720 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/MessageDispatcher.h
+2025-09-24 14:23:45,820 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:45,900 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:46,003 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/quickmap/kv.cmake
+2025-09-24 14:23:46,129 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:46,233 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:46,352 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/StreamText.h
+2025-09-24 14:23:46,445 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:46,539 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:46,616 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/iterator/map_iterator_next.cmake
+2025-09-24 14:23:46,689 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:46,793 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:46,900 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_weblinkjson.cpp
+2025-09-24 14:23:47,010 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:47,081 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:47,176 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/SystemInfo.h
+2025-09-24 14:23:47,289 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:47,373 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:47,444 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/WebSerializer.cpp
+2025-09-24 14:23:47,538 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:47,613 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:47,692 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/cryptalgo.h
+2025-09-24 14:23:47,806 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:47,876 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:47,962 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/CyclicBuffer.h
+2025-09-24 14:23:48,048 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:48,119 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:48,236 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/operations/map_clone_deep.cmake
+2025-09-24 14:23:48,309 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:48,393 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:48,492 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/helpers/map_pop_back.cmake
+2025-09-24 14:23:48,582 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:48,660 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:48,746 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/map/README.md
+2025-09-24 14:23:48,823 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:48,909 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:49,011 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/extensions/processcontainers/Module.h
+2025-09-24 14:23:49,130 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:49,252 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:49,377 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/messaging/DirectOutput.h
+2025-09-24 14:23:49,494 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:49,566 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:49,650 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/plugins/Configuration.h
+2025-09-24 14:23:49,753 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:49,839 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:49,956 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/websocket/URL.h
+2025-09-24 14:23:50,042 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:50,159 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:50,245 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/Timer.h
+2025-09-24 14:23:50,364 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:50,446 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:50,527 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/config/events/event_cancel.cmake
+2025-09-24 14:23:50,604 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:50,677 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:50,752 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/IObserver.h
+2025-09-24 14:23:50,862 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:50,975 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:51,071 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_optional.cpp
+2025-09-24 14:23:51,168 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:51,248 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:51,345 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/CMakeLists.txt
+2025-09-24 14:23:51,456 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:51,560 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:51,643 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/cmake/modules/FindLXC.cmake
+2025-09-24 14:23:51,770 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:51,862 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:51,954 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/NetworkInfo.cpp
+2025-09-24 14:23:52,042 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:52,154 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:52,244 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/httpsclient/Module.h
+2025-09-24 14:23:52,366 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:52,450 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:52,549 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/cryptalgo/SecureSocketPort.h
+2025-09-24 14:23:52,644 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:52,765 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:52,858 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Source/core/WarningReportingControl.h
+2025-09-24 14:23:52,943 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-09-24 14:23:53,034 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f6b0045bb10>
+2025-09-24 14:23:53,118 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/712/b32940k/Thunder-712/Tests/unit/core/test_enumerate.cpp
+2025-09-24 14:23:53,193 - Knowledge - INFO - load persisted knowledge: end
+2025-09-24 14:23:53,274 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-24 14:23:53,365 - Knowledge - INFO - load persisted docinfo: end
+2025-09-24 14:23:54,091 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-24 14:23:54,188 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-24 14:23:54,267 - Knowledge - INFO - Knowledge creation complete
+2025-09-24 14:23:54,359 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-09-24 14:23:55,201 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-24 14:23:55,439 - Knowledge - INFO - Knowledge saved to Redis successfully
