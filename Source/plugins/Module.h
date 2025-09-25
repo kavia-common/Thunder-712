@@ -38,3 +38,13 @@
 #define EXTERNAL EXTERNAL_EXPORT
 #endif
 
+// Map generated Thunder namespace names back to the actual framework namespaces.
+// ThunderTools generated stubs expect types under `::Thunder::{Core,RPC,ProxyStub,PluginHost}`.
+// This codebase defines them under `::WPEFramework`. Provide aliases so both worlds align.
+namespace Thunder {
+    namespace Core = WPEFramework::Core;
+    namespace RPC = WPEFramework::RPC;
+    namespace ProxyStub = WPEFramework::ProxyStub;
+    namespace PluginHost = WPEFramework::PluginHost;
+}
+
