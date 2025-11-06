@@ -1,0 +1,18 @@
+{
+  "name": "thunder-712-preview",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Node.js server to provide a clear start command for Thunder-712 previews.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "thunder",
+    "wpeframework",
+    "preview",
+    "server"
+  ],
+  "author": "",
+  "license": "Apache-2.0"
+}

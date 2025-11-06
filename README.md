@@ -16,3 +16,18 @@ All documentation and build instructions for Thunder can be found here: [Documen
 # Copyright and License
 
 Thunder is Copyright 2018 Metrological and licensed under the Apache License, Version 2.0. See the LICENSE and NOTICE files in the top level directory for further details.
+
+## Quick start (Preview Node server)
+
+This repository primarily contains the Thunder C++ sources. For environments that expect a long-running web process to start, a minimal Node.js HTTP server is included to provide a simple, dependency-free start command.
+
+- Prerequisite: Node.js 16+ (no additional npm packages required)
+- Start (from the repository root):
+  - cd Thunder-712
+  - npm start
+
+Server details:
+- Binds to 0.0.0.0 and listens on the PORT environment variable or 3000 by default.
+- Health check endpoint: GET /health returns {"status":"ok"}.
+
+A Procfile is included with "web: npm start" for platforms that require it.
