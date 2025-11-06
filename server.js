@@ -2,7 +2,7 @@
 
 /**
  * Minimal HTTP server to provide a clear start command for preview environments.
- * Listens on process.env.PORT or 3000, binding to 0.0.0.0.
+ * Listens on process.env.PORT or 3001, binding to 0.0.0.0.
  */
 
 const http = require('http');
