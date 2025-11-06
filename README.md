@@ -27,7 +27,7 @@ This repository primarily contains the Thunder C++ sources. For environments tha
   - npm start
 
 Server details:
-- Binds to 0.0.0.0 and listens on the PORT environment variable or 3000 by default.
+- Binds to 0.0.0.0 and listens on the PORT environment variable (if set) or 3001 by default.
 - Health check endpoint: GET /health returns {"status":"ok"}.
 
 A Procfile is included with "web: npm start" for platforms that require it.

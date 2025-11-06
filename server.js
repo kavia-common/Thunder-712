@@ -64,7 +64,7 @@ function createServer() {
  * @returns {http.Server} The started server instance.
  */
 function startServer(port, host) {
-  const PORT = Number.isInteger(port) ? port : parseInt(process.env.PORT || '3000', 10);
+  const PORT = Number.isInteger(port) ? port : parseInt(process.env.PORT || '3001', 10);
   const HOST = host || '0.0.0.0';
 
   const server = createServer();
