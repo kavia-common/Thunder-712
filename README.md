@@ -1,18 +1,49 @@
-# Thunder
+# Thunder-712 Backend Service
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+This is a minimal Node.js Express backend server for the Thunder-712 container. It exposes health and basic API endpoints and is ready for integration with the entservices-infra-712 service as needed.
 
-![Linux Build](https://github.com/rdkcentral/Thunder/actions/workflows/Build%20Thunder%20on%20Linux.yml/badge.svg) ![Windows Build](https://github.com/rdkcentral/Thunder/actions/workflows/Build%20Thunder%20on%20Windows.yml/badge.svg) ![Unit Test](https://github.com/rdkcentral/Thunder/actions/workflows/Test%20Thunder.yml/badge.svg)
+## Features
 
+- Health endpoint: `/health`
+- Example API route: `/api/info`
+- Environment variable support
+- Ready-to-use start script
 
-Thunder (also known as WPEFramework) is an open-source plugin-based device abstraction layer, where business functionality can be implemented as plugins and applications can query and control those plugins. Using Thunder provides a consistent interface-driven development model for both plugins and client applications, with an RPC engine that is suited to both web-based and native apps.
+## Getting Started
 
-Designed from the ground up for embedded platforms and written in C++11, Thunder can be run on even the most low-power of devices (including ARM and MIPS-based platforms).
+1. **Install Node.js** (version 14 or higher recommended).
 
-# Documentation
+2. **Install dependencies:**  
+   ```sh
+   npm install
+   ```
 
-All documentation and build instructions for Thunder can be found here: [Documentation](https://rdkcentral.github.io/Thunder/)
+3. **Configure environment:**  
+   Copy `.env.example` to `.env` and adjust variables as needed:
+   ```sh
+   cp .env.example .env
+   ```
 
-# Copyright and License
+4. **Run the server:**  
+   ```sh
+   npm start
+   ```
 
-Thunder is Copyright 2018 Metrological and licensed under the Apache License, Version 2.0. See the LICENSE and NOTICE files in the top level directory for further details.
+   By default, the server listens on the port defined in the `PORT` environment variable (defaults to 3001).
+
+## Endpoints
+
+- `GET /health`  
+  Returns `{ "status": "ok" }` for health checks.
+
+- `GET /api/info`  
+  Returns service metadata and dependency placeholder info.
+
+## Notes
+
+- Placeholder for integration with [entservices-infra-712] via `ENTSERVICES_INFRA_URL`.  
+  The server runs independently even if that service is absent.
+
+## License
+
+[Apache-2.0](./LICENSE)
