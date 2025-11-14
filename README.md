@@ -1,49 +1,26 @@
-# Thunder-712 Backend Service
+# Thunder-712
 
-This is a minimal Node.js Express backend server for the Thunder-712 container. It exposes health and basic API endpoints and is ready for integration with the entservices-infra-712 service as needed.
+A multi-repository project likely providing backend infrastructure and common services for enterprise applications.
 
-## Features
+## Running the Service
 
-- Health endpoint: `/health`
-- Example API route: `/api/info`
-- Environment variable support
-- Ready-to-use start script
+1. Copy `.env.example` to `.env` and adjust values as needed:
+   ```sh
+   cp .env.example .env
+   ```
+   Set the desired `PORT` value in `.env` (default: 3001).
 
-## Getting Started
-
-1. **Install Node.js** (version 14 or higher recommended).
-
-2. **Install dependencies:**  
+2. Install dependencies:
    ```sh
    npm install
    ```
 
-3. **Configure environment:**  
-   Copy `.env.example` to `.env` and adjust variables as needed:
-   ```sh
-   cp .env.example .env
-   ```
-
-4. **Run the server:**  
+3. Start the server:
    ```sh
    npm start
    ```
+   The server will listen on the port specified in your `.env` or default to 3001.
 
-   By default, the server listens on the port defined in the `PORT` environment variable (defaults to 3001).
+## Environment Variables
 
-## Endpoints
-
-- `GET /health`  
-  Returns `{ "status": "ok" }` for health checks.
-
-- `GET /api/info`  
-  Returns service metadata and dependency placeholder info.
-
-## Notes
-
-- Placeholder for integration with [entservices-infra-712] via `ENTSERVICES_INFRA_URL`.  
-  The server runs independently even if that service is absent.
-
-## License
-
-[Apache-2.0](./LICENSE)
+- `PORT`: The port number for the HTTP server to listen on (default: 3001).
