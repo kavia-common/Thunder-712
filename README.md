@@ -1,26 +1,48 @@
 # Thunder-712
 
-A multi-repository project likely providing backend infrastructure and common services for enterprise applications.
+Core service or library providing shared functionality for enterprise solutions.
 
-## Running the Service
+## Prerequisites
 
-1. Copy `.env.example` to `.env` and adjust values as needed:
-   ```sh
-   cp .env.example .env
-   ```
-   Set the desired `PORT` value in `.env` (default: 3001).
+- Node.js 14.x or newer
+- npm
 
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
+## Setup
 
-3. Start the server:
-   ```sh
-   npm start
-   ```
-   The server will listen on the port specified in your `.env` or default to 3001.
+1. Install dependencies (none are strictly required for this simple entrypoint, but run to avoid issues):
 
-## Environment Variables
+    ```
+    npm install
+    ```
 
-- `PORT`: The port number for the HTTP server to listen on (default: 3001).
+2. Copy `.env.example` to `.env` and modify as needed:
+
+    ```
+    cp .env.example .env
+    ```
+
+   - Edit `.env` if you want to override the default port.
+
+## Start the service
+
+To run the backend service:
+
+```
+npm start
+```
+or
+```
+node server.js
+```
+
+It will listen on the port defined by `PORT` in your environment (default: 3001).
+
+## Files
+
+- `server.js`: Main HTTP entrypoint. Responds with a sample message.
+- `.env.example`: Template for environment variables (copy to `.env` for custom config).
+- `package.json`: Contains the start script and Node.js metadata.
+
+---
+
+*If you see "Thunder-712 backend service is running." in your browser or curl, the service is working.*
