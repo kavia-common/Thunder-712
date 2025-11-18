@@ -61443,3 +61443,593 @@ config/map/dfs_callback.cmake
 2025-11-09 16:29:41,700 - Knowledge - INFO - ⚡ Total Redis path: 3.47s (vs ~300s from disk)
 2025-11-09 16:29:41,884 - Knowledge - INFO - Saving knowledge to Redis...
 2025-11-09 16:29:42,306 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-11-18 13:48:26,138 - Knowledge - INFO - Created shared MongoDB connection pool
+2025-11-18 13:48:26,473 - Knowledge - INFO - Starting Knowledge Graph processing with 20 threads
+2025-11-18 13:48:26,689 - Knowledge - INFO - Initial configuration: chunk_size=65536, max_cache_size=500
+2025-11-18 13:48:26,900 - Knowledge - INFO - Knowledge Graph concurrency configuration: workers=20, max_batch_size=25, max_concurrent_llm_calls=50
+2025-11-18 13:48:28,275 - Knowledge - INFO - 🔍 _load_persisted_knowledge called - checking for Redis optimization
+2025-11-18 13:48:28,458 - Knowledge - WARNING - ❌ load_from_redis method not found - Redis support not attached
+2025-11-18 13:48:28,655 - Knowledge - INFO - load persisted knowledge: begin
+2025-11-18 13:48:28,856 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:29,071 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:29,250 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/Communicator.cpp
+2025-11-18 13:48:29,432 - Knowledge - INFO - [FILE_READ] Completed: Communicator.cpp, Duration: 2ms, Size: 19714
+2025-11-18 13:48:29,608 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:29,828 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:29,993 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/WPEFramework/WarningReportingCategories.cpp
+2025-11-18 13:48:30,167 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:30,393 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:30,552 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/CMakeLists.txt
+2025-11-18 13:48:30,724 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:30,934 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:31,155 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/WPEFramework/SystemInfo.h
+2025-11-18 13:48:31,387 - Knowledge - INFO - [FILE_READ] Completed: SystemInfo.h, Duration: 18ms, Size: 25278
+2025-11-18 13:48:31,567 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:31,781 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:31,948 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/IteratorType.h
+2025-11-18 13:48:32,178 - Knowledge - INFO - [FILE_READ] Completed: IteratorType.h, Duration: 11ms, Size: 5722
+2025-11-18 13:48:32,381 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:32,585 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:32,781 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/privilegedrequest/CMakeLists.txt
+2025-11-18 13:48:32,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:33,187 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:33,361 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/websocket/JSONWebToken.cpp
+2025-11-18 13:48:33,581 - Knowledge - INFO - [FILE_READ] Completed: JSONWebToken.cpp, Duration: 2ms, Size: 6937
+2025-11-18 13:48:33,755 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:33,922 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:34,118 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Proxy.h
+2025-11-18 13:48:34,316 - Knowledge - INFO - [FILE_READ] Completed: Proxy.h, Duration: 2ms, Size: 67018
+2025-11-18 13:48:34,483 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:34,694 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:34,940 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/Channel.h
+2025-11-18 13:48:35,150 - Knowledge - INFO - [FILE_READ] Completed: Channel.h, Duration: 2ms, Size: 15560
+2025-11-18 13:48:35,352 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:35,519 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:35,714 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/events/event_clear.cmake
+2025-11-18 13:48:35,901 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:36,073 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:36,264 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/AWCContainerAdministrator.h
+2025-11-18 13:48:36,489 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:36,719 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:36,924 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/common/CGroupContainerInfo.h
+2025-11-18 13:48:37,106 - Knowledge - INFO - [FILE_READ] Completed: CGroupContainerInfo.h, Duration: 2ms, Size: 6475
+2025-11-18 13:48:37,283 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:37,481 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:37,653 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/ThreadPool.h
+2025-11-18 13:48:37,837 - Knowledge - INFO - [FILE_READ] Completed: ThreadPool.h, Duration: 4ms, Size: 25152
+2025-11-18 13:48:38,048 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:38,228 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:38,394 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/cryptalgo/Module.h
+2025-11-18 13:48:38,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:38,795 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:38,992 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_values.cmake
+2025-11-18 13:48:39,161 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:39,322 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:39,541 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_jsonparser.cpp
+2025-11-18 13:48:39,748 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:39,942 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:40,112 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/hibernate/common/Log.h
+2025-11-18 13:48:40,303 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:40,496 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:40,696 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/Administrator.cpp
+2025-11-18 13:48:40,889 - Knowledge - INFO - [FILE_READ] Completed: Administrator.cpp, Duration: 4ms, Size: 17589
+2025-11-18 13:48:41,081 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:41,347 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:41,559 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/docs/docs.md
+2025-11-18 13:48:41,737 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:41,930 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:42,100 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/workerpool-test/CMakeLists.txt
+2025-11-18 13:48:42,314 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:42,514 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:42,702 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_push_back.cmake
+2025-11-18 13:48:42,962 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:43,163 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:43,347 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/Request.h
+2025-11-18 13:48:43,520 - Knowledge - INFO - [FILE_READ] Completed: Request.h, Duration: 2ms, Size: 12224
+2025-11-18 13:48:43,689 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:43,886 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:44,107 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/WPEFramework/doc/ControllerPlugin.md
+2025-11-18 13:48:44,299 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:44,469 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:44,729 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/function/function_import_table.cmake
+2025-11-18 13:48:44,955 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:45,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:45,282 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/WPEFramework/PluginServer.cpp
+2025-11-18 13:48:45,496 - Knowledge - INFO - [FILE_READ] Completed: PluginServer.cpp, Duration: 4ms, Size: 47508
+2025-11-18 13:48:45,701 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:45,906 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:46,116 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/events/event_addhandler.cmake
+2025-11-18 13:48:46,296 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:46,513 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:46,722 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/MessageStore.h
+2025-11-18 13:48:46,951 - Knowledge - INFO - [FILE_READ] Completed: MessageStore.h, Duration: 5ms, Size: 9783
+2025-11-18 13:48:47,123 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:47,374 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:47,650 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/messaging/LoggingCategories.h
+2025-11-18 13:48:47,865 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:48,053 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:48,311 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/core/map_new.cmake
+2025-11-18 13:48:48,613 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:48,850 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:49,068 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_set_default.cmake
+2025-11-18 13:48:49,283 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:49,431 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:49,596 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/Service.h
+2025-11-18 13:48:49,833 - Knowledge - INFO - [FILE_READ] Completed: Service.h, Duration: 2ms, Size: 15653
+2025-11-18 13:48:49,994 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:50,174 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:50,377 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/events/event_emit.cmake
+2025-11-18 13:48:50,608 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:50,789 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:50,999 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/websocket/WebLink.h
+2025-11-18 13:48:51,203 - Knowledge - INFO - [FILE_READ] Completed: WebLink.h, Duration: 3ms, Size: 12215
+2025-11-18 13:48:51,402 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:51,596 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:51,767 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_path_set.cmake
+2025-11-18 13:48:51,955 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:52,126 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:52,302 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/IUnknown.cpp
+2025-11-18 13:48:52,491 - Knowledge - INFO - [FILE_READ] Completed: IUnknown.cpp, Duration: 15ms, Size: 4688
+2025-11-18 13:48:52,692 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:52,861 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:53,080 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Utils/PluginActivator/README.md
+2025-11-18 13:48:53,248 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:53,451 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:53,657 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/messaging/MessageUnit.h
+2025-11-18 13:48:53,884 - Knowledge - INFO - [FILE_READ] Completed: MessageUnit.h, Duration: 4ms, Size: 35913
+2025-11-18 13:48:54,091 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:54,279 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:54,498 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/hibernate/hibernate.h
+2025-11-18 13:48:54,715 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:54,876 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:55,062 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/operations/map_issubsetof.cmake
+2025-11-18 13:48:55,249 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:55,455 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:55,641 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_time.cpp
+2025-11-18 13:48:55,847 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:56,035 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:56,211 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/ref/address_delete.cmake
+2025-11-18 13:48:56,393 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:56,573 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:56,852 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/messaging/TraceCategories.h
+2025-11-18 13:48:57,036 - Knowledge - INFO - [FILE_READ] Completed: TraceCategories.h, Duration: 2ms, Size: 5680
+2025-11-18 13:48:57,213 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:57,396 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:57,612 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/JSON.h
+2025-11-18 13:48:57,810 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:57,971 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:58,184 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/JSONRPC.cpp
+2025-11-18 13:48:58,369 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:58,599 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:58,775 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Trace.cpp
+2025-11-18 13:48:58,979 - Knowledge - INFO - [FILE_READ] Completed: Trace.cpp, Duration: 3ms, Size: 4632
+2025-11-18 13:48:59,199 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:59,372 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:48:59,606 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_rename.cmake
+2025-11-18 13:48:59,830 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:48:59,995 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:00,182 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_socketstreamjson.cpp
+2025-11-18 13:49:00,383 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:00,607 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:00,795 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/filesystem/file/fwrite.cmake
+2025-11-18 13:49:00,974 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:01,170 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:01,332 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/localtracer/CMakeLists.txt
+2025-11-18 13:49:01,531 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:01,701 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:01,904 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/common/CompileSettingsDebug.cmake
+2025-11-18 13:49:02,046 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:02,226 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:02,401 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_defaults.cmake
+2025-11-18 13:49:02,587 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:02,743 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:02,905 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_rangetype.cpp
+2025-11-18 13:49:03,092 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:03,248 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:03,404 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_push_front.cmake
+2025-11-18 13:49:03,627 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:03,786 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:03,948 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/Module.cpp
+2025-11-18 13:49:04,146 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:04,350 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:04,592 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/core/return/set_ans.cmake
+2025-11-18 13:49:04,820 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:05,018 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:05,222 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/MetaData.h
+2025-11-18 13:49:05,381 - Knowledge - INFO - [FILE_READ] Completed: MetaData.h, Duration: 3ms, Size: 16423
+2025-11-18 13:49:05,573 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:05,777 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:05,973 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/dbus/Client.cpp
+2025-11-18 13:49:06,222 - Knowledge - INFO - [FILE_READ] Completed: Client.cpp, Duration: 3ms, Size: 12133
+2025-11-18 13:49:06,394 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:06,614 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:06,785 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Time.cpp
+2025-11-18 13:49:06,967 - Knowledge - INFO - [FILE_READ] Completed: Time.cpp, Duration: 3ms, Size: 44317
+2025-11-18 13:49:07,146 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:07,373 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:07,587 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/IShell.h
+2025-11-18 13:49:07,780 - Knowledge - INFO - [FILE_READ] Completed: IShell.h, Duration: 3ms, Size: 14907
+2025-11-18 13:49:07,989 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:08,168 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:08,369 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_all_paths.cmake
+2025-11-18 13:49:08,539 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:08,735 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:08,933 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/WPEProcess/CMakeLists.txt
+2025-11-18 13:49:09,098 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:09,326 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:09,559 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/iterator/README.md
+2025-11-18 13:49:09,751 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:09,960 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:10,131 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_invert.cmake
+2025-11-18 13:49:10,422 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:10,607 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:10,782 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/IWarningReportingControl.h
+2025-11-18 13:49:10,948 - Knowledge - INFO - [FILE_READ] Completed: IWarningReportingControl.h, Duration: 2ms, Size: 2057
+2025-11-18 13:49:11,179 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:11,342 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:11,537 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/core/map_append_unique.cmake
+2025-11-18 13:49:11,709 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:11,857 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:12,078 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_processinfo.cpp
+2025-11-18 13:49:12,242 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:12,432 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:12,631 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/core/map_remove.cmake
+2025-11-18 13:49:12,822 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:13,028 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:13,197 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_ipcclient.cpp
+2025-11-18 13:49:13,391 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:13,557 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:13,772 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/cryptalgo/AESImplementation.cpp
+2025-11-18 13:49:13,972 - Knowledge - INFO - [FILE_READ] Completed: AESImplementation.cpp, Duration: 2ms, Size: 49333
+2025-11-18 13:49:14,132 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:14,300 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:14,503 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/core/return/return_math.cmake
+2025-11-18 13:49:14,668 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:14,917 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:15,096 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_synchronous.cpp
+2025-11-18 13:49:15,305 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:15,512 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:15,694 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/core/eval.cmake
+2025-11-18 13:49:15,905 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:16,118 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:16,281 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/IController.h
+2025-11-18 13:49:16,501 - Knowledge - INFO - [FILE_READ] Completed: IController.h, Duration: 2ms, Size: 6412
+2025-11-18 13:49:16,700 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:16,881 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:17,090 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/core/map_append_string.cmake
+2025-11-18 13:49:17,307 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:17,478 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:17,668 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_xgetopt.cpp
+2025-11-18 13:49:17,864 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:18,056 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:18,272 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_to_keyvaluelist.cmake
+2025-11-18 13:49:18,476 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:18,664 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:18,863 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/WPEFramework/ExampleConfigAll.json
+2025-11-18 13:49:19,046 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:19,226 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:19,430 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/KeyValue.h
+2025-11-18 13:49:19,638 - Knowledge - INFO - [FILE_READ] Completed: KeyValue.h, Duration: 2ms, Size: 4059
+2025-11-18 13:49:19,844 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:20,066 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:20,246 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_capture.cmake
+2025-11-18 13:49:20,407 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:20,592 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:20,756 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/websocket/JSONRPCLink.cpp
+2025-11-18 13:49:20,945 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:21,139 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:21,298 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/ref/address_pop_back.cmake
+2025-11-18 13:49:21,492 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:21,706 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:21,899 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/platform.cmake
+2025-11-18 13:49:22,103 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:22,300 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:22,452 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_get_default.cmake
+2025-11-18 13:49:22,613 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:22,802 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:22,991 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/NetworkInfo.h
+2025-11-18 13:49:23,161 - Knowledge - INFO - [FILE_READ] Completed: NetworkInfo.h, Duration: 2ms, Size: 20778
+2025-11-18 13:49:23,369 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:23,569 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:23,755 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/warningreporting/warningreporting.h
+2025-11-18 13:49:23,967 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:24,132 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:24,337 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/docs/introduction/intro.md
+2025-11-18 13:49:24,573 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:24,746 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:24,942 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_numbertype.cpp
+2025-11-18 13:49:25,122 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:25,283 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:25,484 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/core/return/ans_append.cmake
+2025-11-18 13:49:25,716 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:25,897 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:26,091 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/core/return/set_ans_ref.cmake
+2025-11-18 13:49:26,294 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:26,452 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:26,640 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/StreamJSON.h
+2025-11-18 13:49:26,830 - Knowledge - INFO - [FILE_READ] Completed: StreamJSON.h, Duration: 2ms, Size: 9953
+2025-11-18 13:49:26,998 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:27,197 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:27,393 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/collections/list_pop_front.cmake
+2025-11-18 13:49:27,613 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:27,787 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:27,965 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/websocket/WebSerializer.h
+2025-11-18 13:49:28,186 - Knowledge - INFO - [FILE_READ] Completed: WebSerializer.h, Duration: 3ms, Size: 12297
+2025-11-18 13:49:28,379 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:28,541 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:28,751 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/StateControl.cpp
+2025-11-18 13:49:28,920 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:29,118 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:29,330 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_has_all.cmake
+2025-11-18 13:49:29,510 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:29,708 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:29,910 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_message_dispatcher.cpp
+2025-11-18 13:49:30,115 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:30,271 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:30,501 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/Ids.h
+2025-11-18 13:49:30,714 - Knowledge - INFO - [FILE_READ] Completed: Ids.h, Duration: 3ms, Size: 4264
+2025-11-18 13:49:30,917 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:31,138 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:31,319 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Module.h
+2025-11-18 13:49:31,539 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:31,740 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:31,946 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/XGetopt.cpp
+2025-11-18 13:49:32,149 - Knowledge - INFO - [FILE_READ] Completed: XGetopt.cpp, Duration: 2ms, Size: 7390
+2025-11-18 13:49:32,324 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:32,528 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:32,732 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/messaging/Module.cpp
+2025-11-18 13:49:32,968 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:33,136 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:33,341 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_copy_shallow.cmake
+2025-11-18 13:49:33,519 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:33,681 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:33,894 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Enumerate.h
+2025-11-18 13:49:34,090 - Knowledge - INFO - [FILE_READ] Completed: Enumerate.h, Duration: 5ms, Size: 9611
+2025-11-18 13:49:34,273 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:34,435 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:34,656 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/formats/json/json2.cmake
+2025-11-18 13:49:34,866 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:35,040 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:35,254 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/warningreporting/WarningReportingUnit.h
+2025-11-18 13:49:35,456 - Knowledge - INFO - [FILE_READ] Completed: WarningReportingUnit.h, Duration: 2ms, Size: 6854
+2025-11-18 13:49:35,624 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:35,826 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:36,015 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/WarningReportingCategories.h
+2025-11-18 13:49:36,221 - Knowledge - INFO - [FILE_READ] Completed: WarningReportingCategories.h, Duration: 2ms, Size: 8894
+2025-11-18 13:49:36,398 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:36,633 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:36,787 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/ProcessInfo.cpp
+2025-11-18 13:49:36,984 - Knowledge - INFO - [FILE_READ] Completed: ProcessInfo.cpp, Duration: 4ms, Size: 22050
+2025-11-18 13:49:37,143 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:37,334 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:37,514 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Config.h
+2025-11-18 13:49:37,677 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:37,847 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:38,032 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/messaging/Control.h
+2025-11-18 13:49:38,204 - Knowledge - INFO - [FILE_READ] Completed: Control.h, Duration: 2ms, Size: 3595
+2025-11-18 13:49:38,376 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:38,606 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:38,780 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/WPEFramework/PostMortem.cpp
+2025-11-18 13:49:38,935 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:39,090 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:39,306 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/IValueIterator.h
+2025-11-18 13:49:39,471 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:39,651 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:39,833 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Optional.h
+2025-11-18 13:49:40,005 - Knowledge - INFO - [FILE_READ] Completed: Optional.h, Duration: 2ms, Size: 2817
+2025-11-18 13:49:40,224 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:40,430 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:40,606 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/websocket/CMakeLists.txt
+2025-11-18 13:49:40,784 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:40,985 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:41,162 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Measurement.h
+2025-11-18 13:49:41,409 - Knowledge - INFO - [FILE_READ] Completed: Measurement.h, Duration: 4ms, Size: 3023
+2025-11-18 13:49:41,605 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:41,756 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:41,922 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/collections/list_pop_back.cmake
+2025-11-18 13:49:42,136 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:42,318 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:42,498 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_nodeid.cpp
+2025-11-18 13:49:42,680 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:42,885 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:43,080 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/Messages.h
+2025-11-18 13:49:43,265 - Knowledge - INFO - [FILE_READ] Completed: Messages.h, Duration: 2ms, Size: 16888
+2025-11-18 13:49:43,427 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:43,604 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:43,819 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/Types.h
+2025-11-18 13:49:43,986 - Knowledge - INFO - [FILE_READ] Completed: Types.h, Duration: 3ms, Size: 20213
+2025-11-18 13:49:44,241 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:44,415 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:44,600 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Link.h
+2025-11-18 13:49:44,768 - Knowledge - INFO - [FILE_READ] Completed: Link.h, Duration: 2ms, Size: 9120
+2025-11-18 13:49:44,968 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:45,173 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:45,407 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/core/return/clr.cmake
+2025-11-18 13:49:45,600 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:45,766 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:45,956 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/messaging/BaseCategory.h
+2025-11-18 13:49:46,148 - Knowledge - INFO - [FILE_READ] Completed: BaseCategory.h, Duration: 2ms, Size: 2488
+2025-11-18 13:49:46,334 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:46,524 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:46,712 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/formats/json/json_indented.cmake
+2025-11-18 13:49:46,982 - Knowledge - INFO - [FILE_READ] Completed: json_indented.cmake, Duration: 5ms, Size: 3952
+2025-11-18 13:49:47,184 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:47,369 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:47,513 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_portability.cpp
+2025-11-18 13:49:47,689 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:47,863 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:48,043 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/IPTestAdministrator.cpp
+2025-11-18 13:49:48,240 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:48,452 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:48,637 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/ref/address_pop_front.cmake
+2025-11-18 13:49:48,812 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:49,002 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:49,234 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_doorbell.cpp
+2025-11-18 13:49:49,434 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:49,623 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:49,806 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/AWC.h
+2025-11-18 13:49:50,021 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:50,186 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:50,447 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/formats/json/json_write.cmake
+2025-11-18 13:49:50,649 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:50,867 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:51,023 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Serialization.h
+2025-11-18 13:49:51,219 - Knowledge - INFO - [FILE_READ] Completed: Serialization.h, Duration: 2ms, Size: 12964
+2025-11-18 13:49:51,406 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:51,595 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:51,790 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/modules/FindMemcr.cmake
+2025-11-18 13:49:51,952 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:52,154 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:52,347 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/string/cmake_string_to_json.cmake
+2025-11-18 13:49:52,566 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:52,729 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:52,887 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/ConnectorType.cpp
+2025-11-18 13:49:53,062 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:53,274 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:53,480 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_memberavailability.cpp
+2025-11-18 13:49:53,639 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:53,813 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:54,058 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Singleton.cpp
+2025-11-18 13:49:54,227 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:54,433 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:54,645 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/docs/utils/files/files.md
+2025-11-18 13:49:54,803 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:54,977 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:55,172 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_singleton.cpp
+2025-11-18 13:49:55,349 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:55,582 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:55,812 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/implementations/AWCImplementation/AWCProxyContainer.cpp
+2025-11-18 13:49:56,011 - Knowledge - INFO - [FILE_READ] Completed: AWCProxyContainer.cpp, Duration: 2ms, Size: 4774
+2025-11-18 13:49:56,177 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:56,357 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:56,565 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_valuerecorder.cpp
+2025-11-18 13:49:56,761 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:56,928 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:57,111 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/plugins/System.h
+2025-11-18 13:49:57,280 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:57,453 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:57,657 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Portability.cpp
+2025-11-18 13:49:57,836 - Knowledge - INFO - [FILE_READ] Completed: Portability.cpp, Duration: 3ms, Size: 11318
+2025-11-18 13:49:57,993 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:58,161 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:58,369 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/websocket/WebSocketLink.cpp
+2025-11-18 13:49:58,557 - Knowledge - INFO - [FILE_READ] Completed: WebSocketLink.cpp, Duration: 5ms, Size: 12566
+2025-11-18 13:49:58,732 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:58,943 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:59,131 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/core/return/return_ans.cmake
+2025-11-18 13:49:59,335 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:49:59,535 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:49:59,736 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/warningreporting/CMakeLists.txt
+2025-11-18 13:49:59,957 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:00,141 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:00,333 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/ICOM.h
+2025-11-18 13:50:00,538 - Knowledge - INFO - [FILE_READ] Completed: ICOM.h, Duration: 3ms, Size: 2494
+2025-11-18 13:50:00,722 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:00,891 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:01,096 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/DoorBell.cpp
+2025-11-18 13:50:01,248 - Knowledge - INFO - [FILE_READ] Completed: DoorBell.cpp, Duration: 2ms, Size: 6776
+2025-11-18 13:50:01,443 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:01,600 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:01,811 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/com/CMakeLists.txt
+2025-11-18 13:50:01,975 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:02,162 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:02,349 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/implementations/CRunImplementation/CRunImplementation.h
+2025-11-18 13:50:02,523 - Knowledge - INFO - [FILE_READ] Completed: CRunImplementation.h, Duration: 2ms, Size: 3418
+2025-11-18 13:50:02,731 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:02,916 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:03,102 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/common/InstallLink.cmake
+2025-11-18 13:50:03,290 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:03,461 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:03,668 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/SocketPort.h
+2025-11-18 13:50:03,841 - Knowledge - INFO - [FILE_READ] Completed: SocketPort.h, Duration: 5ms, Size: 20014
+2025-11-18 13:50:04,024 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:04,224 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:04,397 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_path_get.cmake
+2025-11-18 13:50:04,608 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:04,769 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:04,939 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/implementations/RunCImplementation/RunCImplementation.h
+2025-11-18 13:50:05,125 - Knowledge - INFO - [FILE_READ] Completed: RunCImplementation.h, Duration: 2ms, Size: 3301
+2025-11-18 13:50:05,315 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:05,559 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:05,727 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/NodeId.cpp
+2025-11-18 13:50:05,902 - Knowledge - INFO - [FILE_READ] Completed: NodeId.cpp, Duration: 6ms, Size: 33446
+2025-11-18 13:50:06,134 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:06,330 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:06,536 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/formats/json/json2_definition.cmake
+2025-11-18 13:50:06,751 - Knowledge - INFO - [FILE_READ] Completed: json2_definition.cmake, Duration: 2ms, Size: 3543
+2025-11-18 13:50:06,983 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:07,186 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:07,389 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/quickmap/map.cmake
+2025-11-18 13:50:07,612 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:07,779 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:07,974 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/implementations/DobbyImplementation/DobbyImplementation.h
+2025-11-18 13:50:08,193 - Knowledge - INFO - [FILE_READ] Completed: DobbyImplementation.h, Duration: 29ms, Size: 3776
+2025-11-18 13:50:08,367 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:08,551 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:08,755 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/file-unlink/file-client.cpp
+2025-11-18 13:50:08,955 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:09,183 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:09,355 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/quickmap/README.md
+2025-11-18 13:50:09,580 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:09,753 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:09,955 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/privilegedrequest/include/privilegedrequest/PrivilegedRequest.h
+2025-11-18 13:50:10,181 - Knowledge - INFO - [FILE_READ] Completed: PrivilegedRequest.h, Duration: 4ms, Size: 15734
+2025-11-18 13:50:10,394 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:10,590 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:10,793 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/core/map_set_special.cmake
+2025-11-18 13:50:11,008 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:11,216 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:11,380 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/core/map_keys.cmake
+2025-11-18 13:50:11,564 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:11,763 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:11,989 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/events/event_handler_call.cmake
+2025-11-18 13:50:12,162 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:12,330 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:12,496 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/ref/address_print.cmake
+2025-11-18 13:50:12,702 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:12,857 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:13,043 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/DataBuffer.h
+2025-11-18 13:50:13,239 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:13,427 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:13,620 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/Number.cpp
+2025-11-18 13:50:13,865 - Knowledge - INFO - [FILE_READ] Completed: Number.cpp, Duration: 13ms, Size: 3296
+2025-11-18 13:50:14,054 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:14,256 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:14,497 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/ref/address_peek_front.cmake
+2025-11-18 13:50:14,759 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:14,953 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:15,154 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/formats/json/json_deserialize.cmake
+2025-11-18 13:50:15,381 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:15,551 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:15,761 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/string/encoding/string_decode_semicolon.cmake
+2025-11-18 13:50:15,973 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:16,156 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:16,368 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Tests/unit/core/test_textfragment.cpp
+2025-11-18 13:50:16,566 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:16,780 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:16,973 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Utils/PluginActivator/source/Module.cpp
+2025-11-18 13:50:17,166 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:17,331 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:17,510 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/docs/introduction/build_windows.md
+2025-11-18 13:50:17,691 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:17,884 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:18,055 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/helpers/map_ensure.cmake
+2025-11-18 13:50:18,220 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:18,387 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:18,539 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/core/WorkerPool.h
+2025-11-18 13:50:18,749 - Knowledge - INFO - [FILE_READ] Completed: WorkerPool.h, Duration: 14ms, Size: 15114
+2025-11-18 13:50:18,957 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:19,164 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:19,376 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/websocket/Module.h
+2025-11-18 13:50:19,625 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:19,824 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:20,040 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/cryptalgo/CMakeLists.txt
+2025-11-18 13:50:20,230 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:20,444 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:20,667 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/Source/extensions/processcontainers/common/BaseRefCount.h
+2025-11-18 13:50:20,886 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:21,133 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:21,355 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/core/map_has.cmake
+2025-11-18 13:50:21,618 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Thunder-712.git:kavia-R4_4
+2025-11-18 13:50:21,783 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f660a2c1150>
+2025-11-18 13:50:21,974 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/263807/b8182ju/Thunder-712/cmake/config/map/core/is_map.cmake
