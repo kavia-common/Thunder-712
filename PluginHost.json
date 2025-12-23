@@ -1,0 +1,32 @@
+{
+  "//": [
+    "Default Thunder PluginHost configuration for preview environments.",
+    "Ensures the HTTP/JSON-RPC server binds to 0.0.0.0:3001 when no env/config is provided.",
+    "The preview system expects a health/ready route on the Controller plugin."
+  ],
+  "controller": {
+    "callsign": "Controller",
+    "locator": "libWPEFrameworkController.so",
+    "autostart": true,
+    "precondition": [],
+    "configuration": {}
+  },
+  "server": {
+    "interface": "0.0.0.0",
+    "port": 3001,
+    "prefix": "/",
+    "jsonrpc": "/jsonrpc",
+    "restapi": true,
+    "secure": false
+  },
+  "plugins": [
+    {
+      "callsign": "Controller",
+      "classname": "Controller",
+      "locator": "libWPEFrameworkController.so",
+      "autostart": true,
+      "precondition": [],
+      "configuration": {}
+    }
+  ]
+}
